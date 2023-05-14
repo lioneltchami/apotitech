@@ -21,7 +21,7 @@
 ![Virtualization](https://img.shields.io/badge/Virtualization-Vagrant-skyblue)
 
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+## <h3> 🤝🏻 &nbsp; Connect with Me </h3>
 
 [<img align="left" alt="www.apotitech.com" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Lionel Tchami | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -57,3 +57,10 @@
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=saitejairrinki&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
 
 </div>
+
+<a href="https://github.com/Rajesh42/News-App">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Rajesh42&repo=News-App" />
+</a>
+<a href="https://github.com/Rajesh42/ChatApp">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Rajesh42&repo=ChatApp" />
+</a>
