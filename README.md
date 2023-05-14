@@ -32,9 +32,7 @@
 [<img align="left" alt="Lionel Tchami | Facebook" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Lionel Tchami | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-</br></br></br>
-
-
+</br>
 
 [website]: https://www.Rajesh42.com
 [linkedin]: https://linkedin.com/in/Rajesh42
@@ -45,7 +43,7 @@
 [facebook]:https://www.facebook.com/apotitech
 [geeksforgeeks]:https://auth.geeksforgeeks.org/user/apotitech/practice/
 
-</br></br></br> 
+</br>
 
 ## 📈 &nbsp;Statistics 
 
