@@ -34,12 +34,7 @@
 
 </br></br></br>
 
-<a href="https://github.com/Rajesh42/News-App">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Rajesh42&repo=News-App" />
-</a>
-<a href="https://github.com/Rajesh42/ChatApp">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Rajesh42&repo=ChatApp" />
-</a>
+
 
 [website]: https://www.Rajesh42.com
 [linkedin]: https://linkedin.com/in/Rajesh42
