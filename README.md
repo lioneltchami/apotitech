@@ -7,6 +7,7 @@
 - 🌱 &nbsp; Currently Working with DevOps (Azure, AWS, GCP) and O365 Stack
 - 💡 &nbsp; [My DevOps Blog](https://apotitech.github.io/)
 
+</br>
 
 ## 🛠 &nbsp; Tech Stack
 
@@ -20,7 +21,7 @@
 ![WebServer](https://img.shields.io/badge/Webserver-Apache%20Server%20%7C%20Apache%20Tomcat-violet)
 ![Virtualization](https://img.shields.io/badge/Virtualization-Vagrant-skyblue)
 
-</br></br>
+</br>
 
 ## 🤝🏻 &nbsp; Connect with Me
 
@@ -44,7 +45,7 @@
 [facebook]:https://www.facebook.com/apotitech
 [geeksforgeeks]:https://auth.geeksforgeeks.org/user/apotitech/practice/
 
-</br></br>
+</br>
 
 ## 📈 &nbsp;Statistics 
 
