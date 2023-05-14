@@ -20,6 +20,7 @@
 ![WebServer](https://img.shields.io/badge/Webserver-Apache%20Server%20%7C%20Apache%20Tomcat-violet)
 ![Virtualization](https://img.shields.io/badge/Virtualization-Vagrant-skyblue)
 
+</br></br>
 
 ## 🤝🏻 &nbsp; Connect with Me
 
@@ -43,7 +44,7 @@
 [facebook]:https://www.facebook.com/apotitech
 [geeksforgeeks]:https://auth.geeksforgeeks.org/user/apotitech/practice/
 
-</br>
+</br></br>
 
 ## 📈 &nbsp;Statistics 
 
