@@ -21,7 +21,7 @@
 ![Virtualization](https://img.shields.io/badge/Virtualization-Vagrant-skyblue)
 
 
-## <h3> 🤝🏻 &nbsp; Connect with Me </h3>
+## 🤝🏻 &nbsp; Connect with Me
 
 [<img align="left" alt="www.apotitech.com" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Lionel Tchami | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
