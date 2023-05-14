@@ -21,6 +21,35 @@
 ![Virtualization](https://img.shields.io/badge/Virtualization-Vagrant-skyblue)
 
 
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+[<img align="left" alt="www.apotitech.com" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Lionel Tchami | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Lionel Tchami | Medium" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="Lionel Tchami | Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Lionel Tchami | Geeksforgeeks" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />][geeksforgeeks]
+[<img align="left" alt="Lionel Tchami | Hackerrank" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
+[<img align="left" alt="Lionel Tchami | Facebook" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Lionel Tchami | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+</br></br></br>
+
+<a href="https://github.com/Rajesh42/News-App">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Rajesh42&repo=News-App" />
+</a>
+<a href="https://github.com/Rajesh42/ChatApp">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Rajesh42&repo=ChatApp" />
+</a>
+
+[website]: https://www.Rajesh42.com
+[linkedin]: https://linkedin.com/in/Rajesh42
+[instagram]: https://www.instagram.com/apotitech/
+[medium]: https://www.medium.com/lioneltchami/
+[twitter]: https://www.twitter.com/lionel_tchami/
+[hackerrank]:https://www.hackerrank.com/apotitech
+[facebook]:https://www.facebook.com/apotitech
+[geeksforgeeks]:https://auth.geeksforgeeks.org/user/apotitech/practice/
+
 ## 📈 &nbsp;Statistics 
 
 
