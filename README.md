@@ -18,7 +18,7 @@
 ![Configuration Management](https://img.shields.io/badge/Configuration%20Management-Ansible-black)
 ![Cloud](https://img.shields.io/badge/IAC-Terraform-teal)
 ![Containerization](https://img.shields.io/badge/Containerization-Docker-azure)
-![SCM](https://img.shields.io/badge/SCM-Github%20%7C%20BitBucket%20%7C%20GitLab-lemon)
+![SCM](https://img.shields.io/badge/SCM-Github%20%7C%20BitBucket%20%7C%20GitLab-orange)
 ![CICD](https://img.shields.io/badge/CICD-Jenkins%20%7C%20Azure%20DevOps-yellow)
 ![Code Quality](https://img.shields.io/badge/Code%20Analysis-SonarQube/Cloud-teal)
 ![WebServer](https://img.shields.io/badge/Webserver-Apache%20Server%20%7C%20Apache%20Tomcat-violet)
