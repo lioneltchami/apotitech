@@ -69,7 +69,7 @@
 ## 🌐 &nbsp; Star Repos:
 
 <a href="https://github.com/apotitech/devops-exercises">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=apotitech&repo=devops-exercises" />
+  <img align="justify" src="https://github-readme-stats.vercel.app/api/pin/?username=apotitech&repo=devops-exercises" />
 </a>
 <a href="https://github.com/apotitech/Devops_Projects_Part_1">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=apotitech&repo=Devops_Projects_Part_1" />
