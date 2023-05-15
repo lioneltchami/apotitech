@@ -10,7 +10,7 @@
 </br>
 </br>
 
-## 🛠 &nbsp; Tech Stack
+## 🛠 &nbsp; Tech Stack:
 
 ![OS](https://img.shields.io/badge/Operating%20Systems-Linux%20%7C%20Windows%20%7C%20MacOS-red)
 ![Cloud](https://img.shields.io/badge/Cloud%20Platform-AWS%20%7C%20Azure%20%7C%20GCP-blue)
@@ -26,7 +26,7 @@
 
 </br>
 
-## 🤝🏻 &nbsp; Connect with Me
+## 🤝🏻 &nbsp; Connect with Me:
 
 [<img align="left" alt="www.apotitech.com" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Lionel Tchami | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -51,7 +51,7 @@
 
 </br>
 
-## 📈 &nbsp;Statistics 
+## 📈 &nbsp;Statistics:
 
 
 <br/> 
