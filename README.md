@@ -12,15 +12,18 @@
 
 ## 🛠 &nbsp; Tech Stack
 
-![OS](https://img.shields.io/badge/Operating%20Systems-Linux%20%7C%20Windows-red)
+![OS](https://img.shields.io/badge/Operating%20Systems-Linux%20%7C%20Windows%20%7C%20MacOS-red)
 ![Cloud](https://img.shields.io/badge/Cloud%20Platform-AWS%20%7C%20Azure%20%7C%20GCP-blue)
 ![Scripting](https://img.shields.io/badge/Scripting-PowerShell%20%7C%20Shell-lemon)
 ![Configuration Management](https://img.shields.io/badge/Configuration%20Management-Ansible-black)
-![Cloud](https://img.shields.io/badge/IAAC-Terraform-teal)
+![Cloud](https://img.shields.io/badge/IAC-Terraform-teal)
+![Containerization](https://img.shields.io/badge/Containerization-Docker-azure)
+![SCM](https://img.shields.io/badge/SCM-Github%20%7C%20BitBucket%20%7C%20GitLab-lemon)
 ![CICD](https://img.shields.io/badge/CICD-Jenkins%20%7C%20Azure%20DevOps-yellow)
 ![Code Quality](https://img.shields.io/badge/Code%20Analysis-SonarQube/Cloud-teal)
 ![WebServer](https://img.shields.io/badge/Webserver-Apache%20Server%20%7C%20Apache%20Tomcat-violet)
 ![Virtualization](https://img.shields.io/badge/Virtualization-Vagrant-skyblue)
+![Container Orchestration](https://img.shields.io/badge/Container%20Orchestration-Kubernetes-blue)
 
 </br>
 
