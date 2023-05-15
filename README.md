@@ -20,7 +20,7 @@
 ![Containerization](https://img.shields.io/badge/Containerization-Docker-azure)
 ![SCM](https://img.shields.io/badge/SCM-Github%20%7C%20BitBucket%20%7C%20GitLab-orange)
 ![CICD](https://img.shields.io/badge/CICD-Jenkins%20%7C%20Azure%20DevOps-yellow)
-![Code Quality](https://img.shields.io/badge/Code%20Analysis-SonarQube/Cloud-teal)
+![Code Quality](https://img.shields.io/badge/Code%20Analysis-SonarQube/Cloud-violet)
 ![Virtualization](https://img.shields.io/badge/Virtualization-Vagrant-skyblue)
 ![Container Orchestration](https://img.shields.io/badge/Container%20Orchestration-Kubernetes-blue)
 
