@@ -75,5 +75,5 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=apotitech&repo=Devops_Projects_Part_1" />
 </a>
 <a href="https://github.com/apotitech/90DaysOfDevOps">
-  <img align="justify" src="https://github-readme-stats.vercel.app/api/pin/?username=apotitech&repo=90DaysOfDevOps" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=apotitech&repo=90DaysOfDevOps" />
 </a>
