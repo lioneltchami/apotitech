@@ -40,8 +40,8 @@
 </br>
 </br>
 
-[website]: https://www.Rajesh42.com
-[linkedin]: https://linkedin.com/in/Rajesh42
+[website]: https://www.apotitech.com
+[linkedin]: https://linkedin.com/in/apotitech
 [instagram]: https://www.instagram.com/apotitech/
 [medium]: https://www.medium.com/lioneltchami/
 [twitter]: https://www.twitter.com/lionel_tchami/
@@ -66,9 +66,14 @@
 
 <br/> 
 
-<a href="https://github.com/Rajesh42/News-App">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Rajesh42&repo=News-App" />
+## 🌐 &nbsp; Star Repos:
+
+<a href="https://github.com/apotitech/DevOps_Decoding_v1">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=apotitech&repo=DevOps_Decoding_v1" />
 </a>
-<a href="https://github.com/Rajesh42/ChatApp">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Rajesh42&repo=ChatApp" />
+<a href="https://github.com/apotitech/Devops_Projects_Part_1">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=apotitech&repo=Devops_Projects_Part_1" />
+</a>
+<a href="https://github.com/apotitech/90DaysOfDevOps">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=apotitech&repo=90DaysOfDevOps" />
 </a>
