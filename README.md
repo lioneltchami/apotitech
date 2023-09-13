@@ -2,10 +2,10 @@
 
 ## &nbsp; 👨🏻‍💻 About me:
 
-- 👨‍🎓 &nbsp; MSc & BSc in Sciences with Minor in Computer Sciences - University of Yaounde I
+- 👨‍🎓 &nbsp; MSc & BSc in E. Sciences with Minor in Computer Sciences - University of Yaounde I
 - ⌨️ &nbsp; Proficient in Provisioning and Managing Cloud Infrastructure, Automation, and Experienced in handling CICD Lifecycle.
-- 🌱 &nbsp; Currently Working with DevOps (Azure, AWS, GCP) and O365 Stack
-- 💡 &nbsp; [My DevOps Blog](https://apotitech.github.io/)
+- 🌱 &nbsp; Work as a DevOps / Infrasructure Specialis @ IBM
+- 💡 &nbsp; [My DevOps Blog](https://softwaresennin.dev/)
 
 </br>
 </br>
