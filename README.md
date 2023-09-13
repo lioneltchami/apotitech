@@ -4,7 +4,7 @@
 
 - 👨‍🎓 &nbsp; MSc & BSc in E. Sciences with Minor in Computer Sciences - University of Yaounde I
 - ⌨️ &nbsp; Proficient in Provisioning and Managing Cloud Infrastructure, Automation, and Experienced in handling CICD Lifecycle.
-- 🌱 &nbsp; Work as a DevOps / Infrasructure Specialis @ IBM
+- 🌱 &nbsp; Work as a DevOps / Infrasructure Specialist @ IBM
 - 💡 &nbsp; [My DevOps Blog](https://softwaresennin.dev/)
 
 </br>
