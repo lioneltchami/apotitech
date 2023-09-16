@@ -1,102 +1,80 @@
-<img src='https://res.cloudinary.com/dvdi2oaso/image/upload/v1670328710/GithubProfile/avento_mz8ci4.gif'>
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=40&duration=1500&pause=500&color=59C8BB&width=400&lines&height=70&lines=Nice+to+Meet+you...%F0%9F%98%83%09;I'm+LIONEL+TCHAMI;DevOps+Engineer)](https://git.io/typing-svg)
+![Lionel Tchami Banner](https://res.cloudinary.com/dvdi2oaso/image/upload/v1670328710/GithubProfile/avento_mz8ci4.gif)
 
-## &nbsp; 👨🏻‍💻 About me:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=30&duration=1500&pause=500&color=59C8BB&width=400&lines&height=50&lines=Nice+to+Meet+you...%F0%9F%98%83;I'm+LIONEL+TCHAMI;DevOps+Engineer)](https://git.io/typing-svg)
 
-- 👨‍🎓 &nbsp; MSc & BSc in E. Sciences with Minor in Computer Sciences - University of Yaounde I
-- ⌨️ &nbsp; Proficient in Provisioning and Managing Cloud Infrastructure, Automation, and Experienced in handling CICD Lifecycle.
-- 🌱 &nbsp; Work as a DevOps / Infrasructure Specialist @ IBM
-- 💡 &nbsp; [My DevOps Blog](https://softwaresennin.dev/)
+## 👨🏻‍💻 About Me:
 
-</br>
-</br>
+#### 👨‍🎓 MSc & BSc in E. Sciences with Minor in Computer Sciences - University of Yaounde I
 
-<br>
-<p align="center">
-    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="50px"
-        alt="Git" />&nbsp;<i><b>Git Activeness</b></i>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=apotitech&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
+#### ⌨️ Proficient in provisioning and managing cloud infrastructure, automation, and managing the CICD lifecycle.
 
+#### 🌱 Currently working as a DevOps / Infrastructure Specialist at IBM.
 
-</br>
-</br>
+#### 💡 Check out [My Website](https://softwaresennin.dev/).
 
+&nbsp; &nbsp;
+&nbsp; &nbsp;
 
-## 🛠 &nbsp; Tech Stack:
+## 🛠 Tech Stack:
 
-![OS](https://img.shields.io/badge/Operating%20Systems-Linux%20%7C%20Windows%20%7C%20MacOS-red)
-![Cloud](https://img.shields.io/badge/Cloud%20Platform-AWS%20%7C%20Azure%20%7C%20GCP-blue)
+![OS](https://img.shields.io/badge/OS-Linux%20%7C%20Windows%20%7C%20MacOS-red)
+![Cloud](https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCP-blue)
 ![Scripting](https://img.shields.io/badge/Scripting-PowerShell%20%7C%20Shell-lemon)
-![Configuration Management](https://img.shields.io/badge/Configuration%20Management-Ansible-black)
-![Cloud](https://img.shields.io/badge/IAC-Terraform-teal)
+![Config Management](https://img.shields.io/badge/Config%20Management-Ansible-black)
+![IAC](https://img.shields.io/badge/IAC-Terraform-teal)
 ![Containerization](https://img.shields.io/badge/Containerization-Docker-azure)
 ![SCM](https://img.shields.io/badge/SCM-Github%20%7C%20BitBucket%20%7C%20GitLab-orange)
 ![CICD](https://img.shields.io/badge/CICD-Jenkins%20%7C%20Azure%20DevOps-yellow)
-![Code Quality](https://img.shields.io/badge/Code%20Analysis-SonarQube/Cloud-violet)
+![Code Quality](https://img.shields.io/badge/Code%20Quality-SonarQube/Cloud-violet)
 ![Virtualization](https://img.shields.io/badge/Virtualization-Vagrant-skyblue)
-![Container Orchestration](https://img.shields.io/badge/Container%20Orchestration-Kubernetes-blue)
+![Container Orchestration](https://img.shields.io/badge/Orchestration-Kubernetes-blue)
 
-</br>
+&nbsp; &nbsp;
+&nbsp; &nbsp;
 
-## 🤝🏻 &nbsp; Connect with Me:
+## 🤝🏻 Connect with Me:
 
-[<img align="left" alt="www.apotitech.com" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Lionel Tchami | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Lionel Tchami | Medium" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="Lionel Tchami | Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Lionel Tchami | Geeksforgeeks" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />][geeksforgeeks]
-[<img align="left" alt="Lionel Tchami | Hackerrank" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
-[<img align="left" alt="Lionel Tchami | Facebook" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Lionel Tchami | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![website](https://img.shields.io/badge/Website-www.apotitech.com-green?style=flat&logo=Google-Chrome)](https://www.apotitech.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lionel_Tchami-blue?style=flat&logo=linkedin)](https://linkedin.com/in/lionel-tchami)
+[![Medium](https://img.shields.io/badge/Medium-Lionel_Tchami-black?style=flat&logo=medium)](https://www.medium.com/lioneltchami/)
+[![Twitter](https://img.shields.io/badge/Twitter-lionel_tchami-blue?style=flat&logo=twitter)](https://www.twitter.com/lionel_tchami/)
+[![Hackerrank](https://img.shields.io/badge/Hackerrank-apotitech-green?style=flat&logo=hackerrank)](https://www.hackerrank.com/apotitech)
+[![Facebook](https://img.shields.io/badge/Facebook-apotitech-blue?style=flat&logo=facebook)](https://www.facebook.com/apotitech)
+[![Instagram](https://img.shields.io/badge/Instagram-apotitech-purple?style=flat&logo=instagram)](https://www.instagram.com/apotitech/)
 
-</br>
-</br>
+&nbsp; &nbsp;
+&nbsp; &nbsp;
 
-[website]: https://www.apotitech.com
-[linkedin]: https://linkedin.com/in/apotitech
-[instagram]: https://www.instagram.com/apotitech/
-[medium]: https://www.medium.com/lioneltchami/
-[twitter]: https://www.twitter.com/lionel_tchami/
-[hackerrank]:https://www.hackerrank.com/apotitech
-[facebook]:https://www.facebook.com/apotitech
-[geeksforgeeks]:https://auth.geeksforgeeks.org/user/apotitech/practice/
+## 📈 Statistics:
 
-</br>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apotitech&theme=tokyonight&langs_count=12&layout=compact&hide=Jupyter%20Notebook,html,css" alt="Top Languages">
 
-## 📈 &nbsp;Statistics:
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=apotitech&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Lionel's Github Stats">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apotitech&theme=tokyonight&langs_count=12&layout=compact&hide=Jupyter%20Notebook,html,css" alt="ABSphreak's Github Stats">
 
-<br/> 
-</br>
+<br clear="left"/>
 
-<div align="center">
+&nbsp; &nbsp;
+&nbsp; &nbsp;
 
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=apotitech&theme=dark&dates=00e673)
-  
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=apotitech&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
+## 🌐 Star Repos:
+
+[![devops-exercises Repo](https://github-readme-stats.vercel.app/api/pin/?username=apotitech&repo=devops-exercises)](https://github.com/apotitech/devops-exercises)
+[![Devops_Projects_Part_1 Repo](https://github-readme-stats.vercel.app/api/pin/?username=apotitech&repo=Devops_Projects_Part_1)](https://github.com/apotitech/Devops_Projects_Part_1)
+[![90 Days of DevOps](https://github-readme-stats.vercel.app/api/pin/?username=apotitech&repo=90DaysOfDevOps)](https://github.com/apotitech/90DaysOfDevOps)
+
+
+&nbsp; &nbsp;
+&nbsp; &nbsp;
+
+## 🌐 A Merry Heart ❤️ Does Good Like Medicine:
+
+**Prov 17: 22-24**
+
+<i>Here's a random dev joke for you!</i>
+
+<a href="https://readme-jokes.vercel.app"><img src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 </div>
-
-<br/> 
-
-## 🌐 &nbsp; Star Repos:
-
-<a href="https://github.com/apotitech/devops-exercises">
-  <img align="justify" src="https://github-readme-stats.vercel.app/api/pin/?username=apotitech&repo=devops-exercises" />
-</a>
-<a href="https://github.com/apotitech/Devops_Projects_Part_1">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=apotitech&repo=Devops_Projects_Part_1" />
-</a>
-<a href="https://github.com/apotitech/90DaysOfDevOps">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=apotitech&repo=90DaysOfDevOps" />
-</a>
-
-</br>
-</br>
-<i>Random dev joke for you!</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api"
-        alt="README Jokes"></a>
-</p>
