@@ -1,3 +1,5 @@
+<img src='https://res.cloudinary.com/dvdi2oaso/image/upload/v1670328710/GithubProfile/avento_mz8ci4.gif'>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=40&duration=1500&pause=500&color=59C8BB&width=400&lines&height=70&lines=Nice+to+Meet+you...%F0%9F%98%83%09;I'm+LIONEL+TCHAMI;DevOps+Engineer)](https://git.io/typing-svg)
 
 ## &nbsp; 👨🏻‍💻 About me:
@@ -9,6 +11,18 @@
 
 </br>
 </br>
+
+<br>
+<p align="center">
+    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="50px"
+        alt="Git" />&nbsp;<i><b>Git Activeness</b></i>
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=apotitech&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
+
+
+</br>
+</br>
+
 
 ## 🛠 &nbsp; Tech Stack:
 
@@ -53,8 +67,10 @@
 
 ## 📈 &nbsp;Statistics:
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apotitech&theme=tokyonight&langs_count=12&layout=compact&hide=Jupyter%20Notebook,html,css" alt="ABSphreak's Github Stats">
 
 <br/> 
+</br>
 
 <div align="center">
 
@@ -77,3 +93,10 @@
 <a href="https://github.com/apotitech/90DaysOfDevOps">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=apotitech&repo=90DaysOfDevOps" />
 </a>
+
+</br>
+</br>
+<i>Random dev joke for you!</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api"
+        alt="README Jokes"></a>
+</p>
