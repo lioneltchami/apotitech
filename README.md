@@ -2,7 +2,7 @@
 
 ![Lionel Tchami Banner](https://res.cloudinary.com/dvdi2oaso/image/upload/v1670328710/GithubProfile/avento_mz8ci4.gif)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=30&duration=1500&pause=500&color=59C8BB&width=400&lines&height=50&lines=Hello,+Nice+to+Meet+you...%F0%9F%98%83;I+am+LIONEL+TCHAMI+N;DevOps+Instructor/DevOps+Consultant+@+IBM)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=30&duration=1500&pause=500&color=59C8BB&width=400&lines&height=50&lines=Hello,+Nice+to+Meet+you...%F0%9F%98%83;I+am+LIONEL+TCHAMI;DevOps+Consultant+@+IBM)](https://git.io/typing-svg)
 
 ## 👨🏻‍💻 About Me:
 
