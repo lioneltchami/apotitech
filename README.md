@@ -31,16 +31,8 @@
 ![Virtualization](https://img.shields.io/badge/Virtualization-Vagrant-skyblue)
 ![Container Orchestration](https://img.shields.io/badge/Orchestration-Kubernetes-blue)
 
-- **Article listing:**
-```shell
-{{ template "article-list" .Articles }}
-```
-- **Article table:**
-```shell
-{{ template "article-table" .Articles }}
-```
 
-## Below are my recent articles -> Lionel Tchami ♾️☁️ collected from my `dev.to` blog.
+## My -> Lionel Tchami ♾️☁️ `dev.to` articles.
 
 ### Table
 
@@ -97,7 +89,7 @@
 - [K8S Quickstart &amp; Helm](https://dev.to/softwaresennin/k8s-quickstart-helm-566o) - 20/08/2023
 - [🚀 Your Guide to Prometheus Monitoring on Kubernetes with Grafana](https://dev.to/softwaresennin/your-guide-to-prometheus-monitoring-on-kubernetes-with-grafana-gi8) - 20/08/2023
 
-*Updated at: 2023-09-17T00:40:36Z*
+*Updated at: 2023-09-17T00:45:20Z*
 
 
 &nbsp; &nbsp;
