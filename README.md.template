@@ -31,16 +31,8 @@
 ![Virtualization](https://img.shields.io/badge/Virtualization-Vagrant-skyblue)
 ![Container Orchestration](https://img.shields.io/badge/Orchestration-Kubernetes-blue)
 
-- **Article listing:**
-```shell
-{{`{{`}} template "article-list" .Articles {{`}}`}}
-```
-- **Article table:**
-```shell
-{{`{{`}} template "article-table" .Articles {{`}}`}}
-```
 
-## Below are my recent articles -> {{ .Author }} collected from my `dev.to` blog.
+## My -> {{ .Author }} `dev.to` articles.
 
 ### Table
 
