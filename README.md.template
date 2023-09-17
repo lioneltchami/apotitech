@@ -40,7 +40,8 @@
 {{`{{`}} template "article-table" .Articles {{`}}`}}
 ```
 
-## Below is my recent articles {{ .Author }} collected from dev.to
+## Below are my recent articles -> {{ .Author }} collected from my `dev.to` blog.
+
 ### Table
 
 {{ template "article-table" .Articles }}
