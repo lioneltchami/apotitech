@@ -1,80 +1,120 @@
-<div align="center">
+## About
+Collect your latest articles from sources such as [dev.to](https://dev.to), and then update the `README.md`.
 
-![Lionel Tchami Banner](https://res.cloudinary.com/dvdi2oaso/image/upload/v1670328710/GithubProfile/avento_mz8ci4.gif)
+## Use GitHub Action to update your README
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=30&duration=1500&pause=500&color=59C8BB&width=400&lines&height=50&lines=Hello,+Nice+to+Meet+you...%F0%9F%98%83;I+am+LIONEL+TCHAMI;DevOps+Consultant+@+IBM)](https://git.io/typing-svg)
+**Step 1:** In your repository, create a file named `README.md.template`.
 
-## 👨🏻‍💻 About Me:
+**Step 2:** Write anything you want within the `README.md.template` file.
 
-#### 👨‍🎓 MSc & BSc in E. Sciences with Minor in Computer Sciences - University of Yaounde I
+**Step 3:** Embed one of the following entities within your `README.md.template`:
 
-#### ⌨️ Proficient in provisioning and managing cloud infrastructure, automation, and managing the CICD lifecycle.
+- **Article listing:**
+```shell
+{{ template "article-list" .Articles }}
+```
+- **Article table:**
+```shell
+{{ template "article-table" .Articles }}
+```
 
-#### 🌱 Currently working as a DevOps / Infrastructure Specialist at IBM.
+If you are familiar with Go templates, you have access to the `root` variable, which includes the following fields:
 
-#### 💡 Check out [My Website](https://softwaresennin.dev/).
+- `Articles`: An array of Article. You can view the Article struct definition in [model/article.go](model/article.go).
+- `Time`: Updated Time
+- `Author`: Author of articles
 
-&nbsp; &nbsp;
-&nbsp; &nbsp;
+**Step 4**: Register Github Action
+- Create a file `.github/workflows/update-articles.yml` in your repository.
+```yml
+name: "Cronjob"
+on:
+schedule:
+- cron: '15 0 * * *'
 
-## 🛠 Tech Stack:
+jobs:
+    update-articles:
+        permissions: write-all
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v3
+            - name: Generate README
+              uses: huantt/article-listing@v1.1.0
+              with:
+                username: YOUR_USERNAME_ON_DEV_TO                
+                template-file: 'README.md.template'
+                out-file: 'README.md'
+                limit: 5
+            - name: Commit
+              run: |
+                if git diff --exit-code; then
+                    echo "No changes to commit."
+                    exit 0
+                else
+                    git config user.name github-actions
+                    git config user.email github-actions@github.com
+                    git add .
+                    git commit -m "update"
+                    git push origin main
+                fi
+```
 
-![OS](https://img.shields.io/badge/OS-Linux%20%7C%20Windows%20%7C%20MacOS-red)
-![Cloud](https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCP-blue)
-![Scripting](https://img.shields.io/badge/Scripting-PowerShell%20%7C%20Shell-lemon)
-![Config Management](https://img.shields.io/badge/Config%20Management-Ansible-black)
-![IAC](https://img.shields.io/badge/IAC-Terraform-teal)
-![Containerization](https://img.shields.io/badge/Containerization-Docker-azure)
-![SCM](https://img.shields.io/badge/SCM-Github%20%7C%20BitBucket%20%7C%20GitLab-orange)
-![CICD](https://img.shields.io/badge/CICD-Jenkins%20%7C%20Azure%20DevOps-yellow)
-![Code Quality](https://img.shields.io/badge/Code%20Quality-SonarQube/Cloud-violet)
-![Virtualization](https://img.shields.io/badge/Virtualization-Vagrant-skyblue)
-![Container Orchestration](https://img.shields.io/badge/Orchestration-Kubernetes-blue)
+**Step 5**: Commit your change, then Github actions will run as your specified cron to update Articles into your README.md file
 
-&nbsp; &nbsp;
-&nbsp; &nbsp;
-
-## 🤝🏻 Connect with Me:
-
-[![website](https://img.shields.io/badge/Website-www.apotitech.com-green?style=flat&logo=Google-Chrome)](https://www.apotitech.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lionel_Tchami-blue?style=flat&logo=linkedin)](https://linkedin.com/in/lionel-tchami)
-[![Medium](https://img.shields.io/badge/Medium-Lionel_Tchami-black?style=flat&logo=medium)](https://www.medium.com/lioneltchami/)
-[![Twitter](https://img.shields.io/badge/Twitter-lionel_tchami-blue?style=flat&logo=twitter)](https://www.twitter.com/lionel_tchami/)
-[![Hackerrank](https://img.shields.io/badge/Hackerrank-apotitech-green?style=flat&logo=hackerrank)](https://www.hackerrank.com/apotitech)
-[![Facebook](https://img.shields.io/badge/Facebook-apotitech-blue?style=flat&logo=facebook)](https://www.facebook.com/apotitech)
-[![Instagram](https://img.shields.io/badge/Instagram-apotitech-purple?style=flat&logo=instagram)](https://www.instagram.com/apotitech/)
-
-&nbsp; &nbsp;
-&nbsp; &nbsp;
-
-## 📈 Statistics:
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apotitech&theme=tokyonight&langs_count=12&layout=compact&hide=Jupyter%20Notebook,html,css" alt="Top Languages">
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=apotitech&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Lionel's Github Stats">
-
-
-<br clear="left"/>
-
-&nbsp; &nbsp;
-&nbsp; &nbsp;
-
-## 🌐 Star Repos:
-
-[![devops-exercises Repo](https://github-readme-stats.vercel.app/api/pin/?username=apotitech&repo=devops-exercises)](https://github.com/apotitech/devops-exercises)
-[![Devops_Projects_Part_1 Repo](https://github-readme-stats.vercel.app/api/pin/?username=apotitech&repo=Devops_Projects_Part_1)](https://github.com/apotitech/Devops_Projects_Part_1)
-[![90 Days of DevOps](https://github-readme-stats.vercel.app/api/pin/?username=apotitech&repo=90DaysOfDevOps)](https://github.com/apotitech/90DaysOfDevOps)
+## Below is my recent articles Lionel Tchami ♾️☁️ collected from dev.to
+### Table
 
 
-&nbsp; &nbsp;
-&nbsp; &nbsp;
+<table>
+        <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--CksphwCH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tmcfnb132zrgxgpnfix8.jpg" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/aws-builders/every-project-deserves-its-cicd-pipeline-no-matter-how-small-19j9">Every Project Deserves its CI/CD pipeline, no matter how small</a>
+                <div>TL;DR   In today&#39;s tech industry, setting up a CI/CD pipeline is quite easy. Creating a...</div>
+                <div><i>28/08/2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--K69CfaQk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/um9yc5jchgdqn03f59bu.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/softwaresennin/create-your-first-web-app-using-chatgpt-2174">Create your first Web-app using ChatGPT</a>
+                <div>Introduction   Language translation is essential in our globalized world, bridging language...</div>
+                <div><i>21/08/2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--UrbvOo7j--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9lqleb1wzb02sau8m8v1.jpg" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/aws-builders/localstack-emulate-aws-services-for-local-development-testing-eoj">LocalStack: Emulate AWS Services for Local Development &amp; Testing</a>
+                <div>It can be time-consuming, difficult, and even dangerous to create and test cloud-based apps in a...</div>
+                <div><i>22/07/2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--hzF7BRj4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xymkz4fh7hvqyl5wcsxl.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/softwaresennin/k8s-quickstart-helm-566o">K8S Quickstart &amp; Helm</a>
+                <div>Today, Kubernetes becomes a must for DevOps Engineers, SRE and others for orchestrating containers....</div>
+                <div><i>20/08/2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--V9FpdGjr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iq8fhojv1h7u2m7ad5ia.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/softwaresennin/your-guide-to-prometheus-monitoring-on-kubernetes-with-grafana-gi8">🚀 Your Guide to Prometheus Monitoring on Kubernetes with Grafana</a>
+                <div>Introduction:   Hey fam🌟 In the fast-changing tech world of today, keeping an eye on the...</div>
+                <div><i>20/08/2023</i></div>
+            </td>
+        </tr>
+</table>
 
-## 🌐 A Merry Heart ❤️ Does Good Like Medicine:
 
-**Prov 17: 22-24**
+### List
 
-<i>Here's a random dev joke for you!</i>
+- [Every Project Deserves its CI/CD pipeline, no matter how small](https://dev.to/aws-builders/every-project-deserves-its-cicd-pipeline-no-matter-how-small-19j9) - 28/08/2023
+- [Create your first Web-app using ChatGPT](https://dev.to/softwaresennin/create-your-first-web-app-using-chatgpt-2174) - 21/08/2023
+- [LocalStack: Emulate AWS Services for Local Development &amp; Testing](https://dev.to/aws-builders/localstack-emulate-aws-services-for-local-development-testing-eoj) - 22/07/2023
+- [K8S Quickstart &amp; Helm](https://dev.to/softwaresennin/k8s-quickstart-helm-566o) - 20/08/2023
+- [🚀 Your Guide to Prometheus Monitoring on Kubernetes with Grafana](https://dev.to/softwaresennin/your-guide-to-prometheus-monitoring-on-kubernetes-with-grafana-gi8) - 20/08/2023
 
-<a href="https://readme-jokes.vercel.app"><img src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-
-</div>
+*Updated at: 2023-09-17T00:28:11Z*
