@@ -91,7 +91,7 @@
 - [LocalStack: Emulate AWS Services for Local Development &amp; Testing](https://dev.to/aws-builders/localstack-emulate-aws-services-for-local-development-testing-eoj) - 22/07/2023
 - [K8S Quickstart &amp; Helm](https://dev.to/softwaresennin/k8s-quickstart-helm-566o) - 20/08/2023
 
-*Updated at: 2023-10-20T12:42:04Z*
+*Updated at: 2023-10-20T18:26:58Z*
 
 
 &nbsp; &nbsp;
