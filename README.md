@@ -41,6 +41,14 @@
 
 <table>
         <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--dWza8QGr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8985inuwxibsv88wlwsr.gif" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/softwaresennin/thank-you-so-much-everyone-p7j">Thank you so much everyone!</a>
+                <div>Hi fam, I&#39;m so excited to announce that I&#39;ve reached 30,000 views and 6K&#43; followers! This is such a...</div>
+                <div><i>21/10/2023</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--3JjxR4-r--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h6of5pfchsmpu7iurjtd.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/aws-builders/how-netflix-uses-the-cloud-aws-191c">How Netflix Uses the Cloud - AWS</a>
@@ -72,26 +80,18 @@
                 <div><i>22/07/2023</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--hzF7BRj4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xymkz4fh7hvqyl5wcsxl.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/softwaresennin/k8s-quickstart-helm-566o">K8S Quickstart &amp; Helm</a>
-                <div>Today, Kubernetes becomes a must for DevOps Engineers, SRE and others for orchestrating containers....</div>
-                <div><i>20/08/2023</i></div>
-            </td>
-        </tr>
 </table>
 
 
 ### List
 
+- [Thank you so much everyone!](https://dev.to/softwaresennin/thank-you-so-much-everyone-p7j) - 21/10/2023
 - [How Netflix Uses the Cloud - AWS](https://dev.to/aws-builders/how-netflix-uses-the-cloud-aws-191c) - 27/08/2023
 - [Every Project Deserves its CI/CD pipeline, no matter how small](https://dev.to/aws-builders/every-project-deserves-its-cicd-pipeline-no-matter-how-small-19j9) - 28/08/2023
 - [Create your first Web-app using ChatGPT](https://dev.to/softwaresennin/create-your-first-web-app-using-chatgpt-2174) - 21/08/2023
 - [LocalStack: Emulate AWS Services for Local Development &amp; Testing](https://dev.to/aws-builders/localstack-emulate-aws-services-for-local-development-testing-eoj) - 22/07/2023
-- [K8S Quickstart &amp; Helm](https://dev.to/softwaresennin/k8s-quickstart-helm-566o) - 20/08/2023
 
-*Updated at: 2023-10-22T01:33:03Z*
+*Updated at: 2023-10-22T06:27:05Z*
 
 
 &nbsp; &nbsp;
