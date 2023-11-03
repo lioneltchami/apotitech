@@ -91,7 +91,7 @@
 - [Create your first Web-app using ChatGPT](https://dev.to/softwaresennin/create-your-first-web-app-using-chatgpt-2174) - 21/08/2023
 - [LocalStack: Emulate AWS Services for Local Development &amp; Testing](https://dev.to/aws-builders/localstack-emulate-aws-services-for-local-development-testing-eoj) - 22/07/2023
 
-*Updated at: 2023-11-03T06:28:10Z*
+*Updated at: 2023-11-03T12:42:29Z*
 
 
 &nbsp; &nbsp;
