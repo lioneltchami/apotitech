@@ -91,7 +91,7 @@
 - [Create your first Web-app using ChatGPT](https://dev.to/softwaresennin/create-your-first-web-app-using-chatgpt-2174) - 21/08/2023
 - [LocalStack: Emulate AWS Services for Local Development &amp; Testing](https://dev.to/aws-builders/localstack-emulate-aws-services-for-local-development-testing-eoj) - 22/07/2023
 
-*Updated at: 2023-11-12T01:35:05Z*
+*Updated at: 2023-11-12T05:34:18Z*
 
 
 &nbsp; &nbsp;
@@ -120,6 +120,15 @@
 <br clear="left"/>
 
 &nbsp; &nbsp;
+
+## Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/{apotitech}/count.svg)
+
+![GitHub metrics](https://metrics.lecoq.io/apotitech)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=apotitech&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)  
+
+
 &nbsp; &nbsp;
 
 ## 🌐 Star Repos:
@@ -139,5 +148,15 @@
 <i>Here's a random dev joke for you!</i>
 
 <a href="https://readme-jokes.vercel.app"><img src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+
+### Currently Playing on Spotify 🎧🎧
+
+<a href="https://open.spotify.com/user/maexmmoqb2i3m5ckj2cknj399">
+  <img src="https://spotify-readme.vercel.app/api?theme=dark" alt="Current Spotify Song">
+</a>
+
+
+### Support Me
+<a href="https://www.buymeacoffee.com/micahshallom"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 </div>
