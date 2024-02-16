@@ -2,7 +2,7 @@
 
 ![Lionel Tchami Banner](https://res.cloudinary.com/dvdi2oaso/image/upload/v1670328710/GithubProfile/avento_mz8ci4.gif)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=30&duration=1500&pause=500&color=59C8BB&width=400&lines&height=50&lines=Hello,+Nice+to+Meet+you...%F0%9F%98%83;I+am+LIONEL+TCHAMI;Founder+@+Coding+Notes)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=30&duration=1500&pause=500&color=59C8BB&width=400&lines&height=50&lines=Hello,+Nice+to+Meet+you...%F0%9F%98%83;I+am+LIONEL+TCHAMI;DevOps+Consultant+@+IBM)](https://git.io/typing-svg)
 
 ## 👨🏻‍💻 About Me:
 
@@ -12,7 +12,7 @@
 
 #### 🌱 Currently working as a DevOps / Infrastructure Specialist at IBM.
 
-#### 💡 Check out [My Website](https://codingnotes.io/).
+#### 💡 Check out [My Website](https://softwaresennin.dev/).
 
 &nbsp; &nbsp;
 &nbsp; &nbsp;
@@ -91,7 +91,7 @@
 - [Create your first Web-app using ChatGPT](https://dev.to/softwaresennin/create-your-first-web-app-using-chatgpt-2174) - 21/08/2023
 - [LocalStack: Emulate AWS Services for Local Development &amp; Testing](https://dev.to/aws-builders/localstack-emulate-aws-services-for-local-development-testing-eoj) - 22/07/2023
 
-*Updated at: 2024-02-16T18:27:06Z*
+*Updated at: 2024-02-16T18:38:35Z*
 
 
 &nbsp; &nbsp;
