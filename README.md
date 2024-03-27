@@ -34,7 +34,7 @@
 &nbsp; &nbsp;
 &nbsp; &nbsp;
 
-## Some of my -> Lionel Tchami ♾️☁️ [Blog](dev.to/softwaresennin) articles.
+## Some of my -> Mel♾️☁️ [Blog](dev.to/softwaresennin) articles.
 
 ### Table
 
@@ -91,7 +91,7 @@
 - [Create your first Web-app using ChatGPT](https://dev.to/softwaresennin/create-your-first-web-app-using-chatgpt-2174) - 21/08/2023
 - [LocalStack: Emulate AWS Services for Local Development &amp; Testing](https://dev.to/aws-builders/localstack-emulate-aws-services-for-local-development-testing-eoj) - 22/07/2023
 
-*Updated at: 2024-03-26T18:27:29Z*
+*Updated at: 2024-03-27T01:21:58Z*
 
 
 &nbsp; &nbsp;
