@@ -41,6 +41,14 @@
 
 <table>
         <tr>
+            <td width="300px"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs4h8iv52tg9h0nhvqpmb.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/softwaresennin/deploying-django-application-on-aws-with-terraform-1j7e">Deploying Django Application on AWS with Terraform - Part 1</a>
+                <div>Hi everyone, I am back with another project. This time we will be working on a CICD pipeline,...</div>
+                <div><i>01/04/2024</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8985inuwxibsv88wlwsr.gif" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/softwaresennin/thank-you-so-much-everyone-p7j">Thank you so much everyone!</a>
@@ -72,26 +80,18 @@
                 <div><i>21/08/2023</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9lqleb1wzb02sau8m8v1.jpg" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/aws-builders/localstack-emulate-aws-services-for-local-development-testing-eoj">LocalStack: Emulate AWS Services for Local Development &amp; Testing</a>
-                <div>It can be time-consuming, difficult, and even dangerous to create and test cloud-based apps in a...</div>
-                <div><i>22/07/2023</i></div>
-            </td>
-        </tr>
 </table>
 
 
 ### List
 
+- [Deploying Django Application on AWS with Terraform - Part 1](https://dev.to/softwaresennin/deploying-django-application-on-aws-with-terraform-1j7e) - 01/04/2024
 - [Thank you so much everyone!](https://dev.to/softwaresennin/thank-you-so-much-everyone-p7j) - 21/10/2023
 - [How Netflix Uses the Cloud - AWS](https://dev.to/aws-builders/how-netflix-uses-the-cloud-aws-191c) - 27/08/2023
 - [Every Project Deserves its CI/CD pipeline, no matter how small](https://dev.to/aws-builders/every-project-deserves-its-cicd-pipeline-no-matter-how-small-19j9) - 28/08/2023
 - [Create your first Web-app using ChatGPT](https://dev.to/softwaresennin/create-your-first-web-app-using-chatgpt-2174) - 21/08/2023
-- [LocalStack: Emulate AWS Services for Local Development &amp; Testing](https://dev.to/aws-builders/localstack-emulate-aws-services-for-local-development-testing-eoj) - 22/07/2023
 
-*Updated at: 2024-04-01T01:34:57Z*
+*Updated at: 2024-04-01T06:28:24Z*
 
 
 &nbsp; &nbsp;
