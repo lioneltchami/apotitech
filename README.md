@@ -34,7 +34,7 @@
 &nbsp; &nbsp;
 &nbsp; &nbsp;
 
-## Some of my -> Mel♾️☁️ [Blog](dev.to/softwaresennin) articles.
+## Some of my -> Lionel♾️☁️ [Blog](dev.to/softwaresennin) articles.
 
 ### Table
 
@@ -91,7 +91,7 @@
 - [Every Project Deserves its CI/CD pipeline, no matter how small](https://dev.to/aws-builders/every-project-deserves-its-cicd-pipeline-no-matter-how-small-19j9) - 28/08/2023
 - [Create your first Web-app using ChatGPT](https://dev.to/softwaresennin/create-your-first-web-app-using-chatgpt-2174) - 21/08/2023
 
-*Updated at: 2024-09-19T01:51:06Z*
+*Updated at: 2024-09-19T06:35:36Z*
 
 
 &nbsp; &nbsp;
