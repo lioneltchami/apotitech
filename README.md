@@ -91,7 +91,7 @@
 - [Every Project Deserves its CI/CD pipeline, no matter how small](https://dev.to/aws-builders/every-project-deserves-its-cicd-pipeline-no-matter-how-small-19j9) - 28/08/2023
 - [Create your first Web-app using ChatGPT](https://dev.to/softwaresennin/create-your-first-web-app-using-chatgpt-2174) - 21/08/2023
 
-*Updated at: 2024-10-17T06:36:56Z*
+*Updated at: 2024-10-17T12:51:18Z*
 
 
 &nbsp; &nbsp;
