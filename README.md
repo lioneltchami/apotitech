@@ -41,7 +41,15 @@
 
 <table>
         <tr>
-            <td width="300px"><img src="https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs4h8iv52tg9h0nhvqpmb.png" alt="thumbnail"></td>
+            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fumd2kjr2kjcri2485iep.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/devcloudninjas/devops-from-0-to-hero-for-freshers-3mj4">DevOps from 0 to Hero - for Freshers</a>
+                <div>Introduction   DevOps is a transformative culture and set of practices that bring together...</div>
+                <div><i>20/10/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs4h8iv52tg9h0nhvqpmb.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/softwaresennin/deploying-django-application-on-aws-with-terraform-1j7e">Deploying Django Application on AWS with Terraform - Part 1</a>
                 <div>Hi everyone, I am back with another project. This time we will be working on a CICD pipeline,...</div>
@@ -49,7 +57,7 @@
             </td>
         </tr>
         <tr>
-            <td width="300px"><img src="https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8985inuwxibsv88wlwsr.gif" alt="thumbnail"></td>
+            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8985inuwxibsv88wlwsr.gif" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/softwaresennin/thank-you-so-much-everyone-p7j">Thank you so much everyone!</a>
                 <div>Hi fam, I&#39;m so excited to announce that I&#39;ve reached 30,000 views and 6K&#43; followers! This is such a...</div>
@@ -57,7 +65,7 @@
             </td>
         </tr>
         <tr>
-            <td width="300px"><img src="https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh6of5pfchsmpu7iurjtd.png" alt="thumbnail"></td>
+            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh6of5pfchsmpu7iurjtd.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/aws-builders/how-netflix-uses-the-cloud-aws-191c">How Netflix Uses the Cloud - AWS</a>
                 <div>How they Use AWS Services   Binge-watching 🍿has become more and more of a phenomena. Netflix...</div>
@@ -65,19 +73,11 @@
             </td>
         </tr>
         <tr>
-            <td width="300px"><img src="https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftmcfnb132zrgxgpnfix8.jpg" alt="thumbnail"></td>
+            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftmcfnb132zrgxgpnfix8.jpg" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/aws-builders/every-project-deserves-its-cicd-pipeline-no-matter-how-small-19j9">Every Project Deserves its CI/CD pipeline, no matter how small</a>
                 <div>TL;DR   In today&#39;s tech industry, setting up a CI/CD pipeline is quite easy. Creating a...</div>
                 <div><i>28/08/2023</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px"><img src="https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fum9yc5jchgdqn03f59bu.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/softwaresennin/create-your-first-web-app-using-chatgpt-2174">Create your first Web-app using ChatGPT</a>
-                <div>Introduction   Language translation is essential in our globalized world, bridging language...</div>
-                <div><i>21/08/2023</i></div>
             </td>
         </tr>
 </table>
@@ -85,13 +85,13 @@
 
 ### List
 
+- [DevOps from 0 to Hero - for Freshers](https://dev.to/devcloudninjas/devops-from-0-to-hero-for-freshers-3mj4) - 20/10/2024
 - [Deploying Django Application on AWS with Terraform - Part 1](https://dev.to/softwaresennin/deploying-django-application-on-aws-with-terraform-1j7e) - 01/04/2024
 - [Thank you so much everyone!](https://dev.to/softwaresennin/thank-you-so-much-everyone-p7j) - 21/10/2023
 - [How Netflix Uses the Cloud - AWS](https://dev.to/aws-builders/how-netflix-uses-the-cloud-aws-191c) - 27/08/2023
 - [Every Project Deserves its CI/CD pipeline, no matter how small](https://dev.to/aws-builders/every-project-deserves-its-cicd-pipeline-no-matter-how-small-19j9) - 28/08/2023
-- [Create your first Web-app using ChatGPT](https://dev.to/softwaresennin/create-your-first-web-app-using-chatgpt-2174) - 21/08/2023
 
-*Updated at: 2024-10-22T01:55:22Z*
+*Updated at: 2024-10-22T06:36:17Z*
 
 
 &nbsp; &nbsp;
