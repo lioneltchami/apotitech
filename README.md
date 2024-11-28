@@ -91,7 +91,7 @@
 - [How Netflix Uses the Cloud - AWS](https://dev.to/aws-builders/how-netflix-uses-the-cloud-aws-191c) - 27/08/2023
 - [Every Project Deserves its CI/CD pipeline, no matter how small](https://dev.to/aws-builders/every-project-deserves-its-cicd-pipeline-no-matter-how-small-19j9) - 28/08/2023
 
-*Updated at: 2024-11-28T02:01:53Z*
+*Updated at: 2024-11-28T06:39:46Z*
 
 
 &nbsp; &nbsp;
