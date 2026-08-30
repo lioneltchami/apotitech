@@ -65,7 +65,7 @@
             </td>
         </tr>
         <tr>
-            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8985inuwxibsv88wlwsr.gif" alt="thumbnail"></td>
+            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8985inuwxibsv88wlwsr.gif" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/softwaresennin/thank-you-so-much-everyone-p7j">Thank you so much everyone!</a>
                 <div>Hi fam, I&#39;m so excited to announce that I&#39;ve reached 30,000 views and 6K&#43; followers! This is such a...</div>
@@ -91,7 +91,7 @@
 - [Thank you so much everyone!](https://dev.to/softwaresennin/thank-you-so-much-everyone-p7j) - 21/10/2023
 - [How Netflix Uses the Cloud - AWS](https://dev.to/aws-builders/how-netflix-uses-the-cloud-aws-191c) - 27/08/2023
 
-*Updated at: 2026-08-30T05:22:33Z*
+*Updated at: 2026-08-30T11:53:13Z*
 
 
 &nbsp; &nbsp;
